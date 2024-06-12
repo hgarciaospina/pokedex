@@ -4,7 +4,7 @@ namespace BlazorPokedex.Services
 {
     public interface IPokeApiClient
     {
-        Task<IQueryable<Pokemon>> GetAllPokemons();
+        Task<IEnumerable<Pokemon>> GetAllPokemons();
         Task<Pokemon> GetPokemon(string name);
     }
 }

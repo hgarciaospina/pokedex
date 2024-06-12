@@ -1,5 +1,6 @@
 ﻿using BlazorPokedex.Models;
 using Newtonsoft.Json;
+using System.Xml.Linq;
 
 namespace BlazorPokedex.Services
 {
@@ -10,9 +11,17 @@ namespace BlazorPokedex.Services
         {
          _httpClient = httpClient;   
         }
-        public Task<IQueryable<Pokemon>> GetAllPokemons()
+        public async Task<IEnumerable<Pokemon>> GetAllPokemons()
         {
-            throw new NotImplementedException();
+            var pokemonList = JsonConvert.DeserializeObject<ResultObject>(
+                await _httpClient.GetStringAsync($"pokemon?limit=24&ioffset=24"));
+
+            var resultList = new List<Pokemon>();
+
+            foreach (var poke in pokemonList.Pokemons)
+                resultList.Add(await GetPokemon(poke.Name));
+
+            return resultList;
         }
 
         public async Task<Pokemon> GetPokemon(string name)
