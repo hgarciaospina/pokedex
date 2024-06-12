@@ -26,14 +26,34 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/BlazorPokedex/BlazorPokedex.Client/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+[D:/BlazorPokedex/BlazorPokedex.Client/Layout/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/BlazorPokedex/BlazorPokedex.Client/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/BlazorPokedex/BlazorPokedex.Client/Pages/Pagination.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFnaW5hdGlvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BlazorPokedex/BlazorPokedex.Client/Pages/PokeDex.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9rZURleC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BlazorPokedex/BlazorPokedex.Client/Pages/PokemonGrid.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUG9rZW1vbkdyaWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/BlazorPokedex/BlazorPokedex.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BlazorPokedex/BlazorPokedex.Client/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-umdkcdkcu5
+
+[D:/BlazorPokedex/BlazorPokedex.Client/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-c3rvllat4d

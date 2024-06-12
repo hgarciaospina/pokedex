@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Remove="Pages\PokemonDetails.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.6" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.6" PrivateAssets="all" />
   </ItemGroup>
@@ -14,6 +18,18 @@
   <ItemGroup>
     <ProjectReference Include="..\BlazorPokedex.Models\BlazorPokedex.Models.csproj" />
     <ProjectReference Include="..\BlazorPokedex.Services\BlazorPokedex.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <UpToDateCheckInput Remove="Pages\PokemonDetails.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\PokemonDetails.razor" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Pages\PokemonDetails.razor" />
   </ItemGroup>
 
 </Project>

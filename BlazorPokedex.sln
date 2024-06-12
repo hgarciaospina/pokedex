@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPokedex.Client", "BlazorPokedex.Client\BlazorPokedex.Client.csproj", "{66194E52-20D8-4FCC-85B6-280C4156B838}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorPokedex.Client", "BlazorPokedex.Client\BlazorPokedex.Client.csproj", "{66194E52-20D8-4FCC-85B6-280C4156B838}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPokedex.Models", "BlazorPokedex.Models\BlazorPokedex.Models.csproj", "{9AC3267B-7537-4CC2-A36B-AA592E613F27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorPokedex.Models", "BlazorPokedex.Models\BlazorPokedex.Models.csproj", "{9AC3267B-7537-4CC2-A36B-AA592E613F27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorPokedex.Services", "BlazorPokedex.Services\BlazorPokedex.Services.csproj", "{6D735DB8-1391-47EE-9109-2BBC8D321727}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorPokedex.Services", "BlazorPokedex.Services\BlazorPokedex.Services.csproj", "{6D735DB8-1391-47EE-9109-2BBC8D321727}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

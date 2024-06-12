@@ -1,0 +1,16 @@
+D:\BlazorPokedex\BlazorPokedex.Services\bin\Debug\net8.0\BlazorPokedex.Services.deps.json
+D:\BlazorPokedex\BlazorPokedex.Services\bin\Debug\net8.0\BlazorPokedex.Services.dll
+D:\BlazorPokedex\BlazorPokedex.Services\bin\Debug\net8.0\BlazorPokedex.Services.pdb
+D:\BlazorPokedex\BlazorPokedex.Services\bin\Debug\net8.0\BlazorPokedex.Models.dll
+D:\BlazorPokedex\BlazorPokedex.Services\bin\Debug\net8.0\BlazorPokedex.Models.pdb
+D:\BlazorPokedex\BlazorPokedex.Services\obj\Debug\net8.0\BlazorPokedex.Services.csproj.AssemblyReference.cache
+D:\BlazorPokedex\BlazorPokedex.Services\obj\Debug\net8.0\BlazorPokedex.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\BlazorPokedex\BlazorPokedex.Services\obj\Debug\net8.0\BlazorPokedex.Services.AssemblyInfoInputs.cache
+D:\BlazorPokedex\BlazorPokedex.Services\obj\Debug\net8.0\BlazorPokedex.Services.AssemblyInfo.cs
+D:\BlazorPokedex\BlazorPokedex.Services\obj\Debug\net8.0\BlazorPokedex.Services.csproj.CoreCompileInputs.cache
+D:\BlazorPokedex\BlazorPokedex.Services\obj\Debug\net8.0\BlazorPokedex.Services.sourcelink.json
+D:\BlazorPokedex\BlazorPokedex.Services\obj\Debug\net8.0\BlazorPo.C48C3CAA.Up2Date
+D:\BlazorPokedex\BlazorPokedex.Services\obj\Debug\net8.0\BlazorPokedex.Services.dll
+D:\BlazorPokedex\BlazorPokedex.Services\obj\Debug\net8.0\refint\BlazorPokedex.Services.dll
+D:\BlazorPokedex\BlazorPokedex.Services\obj\Debug\net8.0\BlazorPokedex.Services.pdb
+D:\BlazorPokedex\BlazorPokedex.Services\obj\Debug\net8.0\ref\BlazorPokedex.Services.dll
